@@ -1,0 +1,7 @@
+So you can hover over the colours in VSC and be able to select a colour dynamically instead of having to use the names.
+
+I have all the nessecary tags picked out, it's just a matter of making it look not-trash. 
+
+Potentially look at the different modifiers avaliable on: https://uofa-cmput404.github.io/cmput404-slides/06-HTML.html#/34
+
+Also, look at image modifiers, spaces, and whatever. 
