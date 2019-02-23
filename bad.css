@@ -1,15 +1,45 @@
+body{
+    font-family: "Comic Sans MS", cursive;
+    color: red;
+    background-color: black;
+    text-align: center;
+    background-image: url('space.jpg');
+}
+
 p{
-    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-family: "Comic Sans MS", cursive;
+    font-size: 20px;
 }
 
 h1{
-    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-family: "Comic Sans MS", cursive;
+    color: green;
+    font-size: 40px;
 }
 
 h2{
-    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-family: "Comic Sans MS", cursive;
+    color: blue;
+    font-size: 40px;
 }
 
 h3{
-    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-family: "Comic Sans MS", cursive;
+    color: purple;
+    font-size: 40px;
+}
+
+h4{
+    font-family: "Comic Sans MS", cursive;
+    font-size: 20px;
+}
+
+.list{
+    font-size: 15px;
+    color: yellow;
+}
+
+.sublist{
+    font-size: 14px;
+    color: yellowgreen;
 }
