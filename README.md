@@ -22,3 +22,8 @@ repository and (C) 2013 Abram Hindle visibile in the text.
 Code is licensed under the Apache 2.0 license.
 
 
+=================
+
+Edits to the gutenburg html documents:
+
+I removed all the background colors, and I added the link to test2.css to make them look different.
